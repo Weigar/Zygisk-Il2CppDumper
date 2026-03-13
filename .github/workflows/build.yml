@@ -9,7 +9,7 @@ on:
       package_name:
         description: "請輸入遊戲包名 (例如: com.example.game):"
         required: true
-        default: "com.example.game"
+        default: "com.percent.aos.cooptd"
 
 jobs:
   build:
